@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FSMatrix": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

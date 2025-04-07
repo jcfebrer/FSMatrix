@@ -1,0 +1,11 @@
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.csproj.AssemblyReference.cache
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.AssemblyInfoInputs.cache
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.AssemblyInfo.cs
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.csproj.CoreCompileInputs.cache
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.sourcelink.json
+D:\FS\FSApps\FSMatrix\bin\Debug\net48\FSMatrix.exe.config
+D:\FS\FSApps\FSMatrix\bin\Debug\net48\FSMatrix.exe
+D:\FS\FSApps\FSMatrix\bin\Debug\net48\FSMatrix.pdb
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.exe
+D:\FS\FSApps\FSMatrix\obj\Debug\net48\FSMatrix.pdb
