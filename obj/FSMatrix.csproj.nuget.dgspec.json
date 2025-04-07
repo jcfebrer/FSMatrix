@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FS\\FSApps\\FSMatrix\\FSMatrix.csproj": {}
+    "D:\\FS\\public\\FSMatrix\\FSMatrix.csproj": {}
   },
   "projects": {
-    "D:\\FS\\FSApps\\FSMatrix\\FSMatrix.csproj": {
+    "D:\\FS\\public\\FSMatrix\\FSMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FS\\FSApps\\FSMatrix\\FSMatrix.csproj",
+        "projectUniqueName": "D:\\FS\\public\\FSMatrix\\FSMatrix.csproj",
         "projectName": "FSMatrix",
-        "projectPath": "D:\\FS\\FSApps\\FSMatrix\\FSMatrix.csproj",
+        "projectPath": "D:\\FS\\public\\FSMatrix\\FSMatrix.csproj",
         "packagesPath": "C:\\Users\\jcfeb\\.nuget\\packages\\",
-        "outputPath": "D:\\FS\\FSApps\\FSMatrix\\obj\\",
+        "outputPath": "D:\\FS\\public\\FSMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
