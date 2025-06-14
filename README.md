@@ -1,4 +1,4 @@
-Efecto Matrix de letras cayendo en verde basodo en CMatrix (versión para PowerShell).
+Efecto Matrix de letras cayendo en verde basodo en CMatrix (versión para netcore 8).
 
 #INSTALACIÓN DE NETCORE
 >sudo pacman -S dotnet-runtime[-6.0][-8.0]
